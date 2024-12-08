@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal182&label=Profile%20views&color=0e75b6&style=flat" alt="afzal182" /> </p>
 
-- 🌱 I’m currently learning **Java,Mysql**
+- 🌱 I’m currently learning **React Native,Mysql**
 
 - 📫 How to reach me **afzalhashmi652@gmail.com**
 
